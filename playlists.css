@@ -1,0 +1,4 @@
+.vjs-playlist .vjs-playlist-duration,
+.vjs-playlist .vjs-playlist-name {
+  display: none;
+}
