@@ -2,3 +2,7 @@
 .vjs-playlist .vjs-playlist-name {
   display: none;
 }
+
+.video-js .vjs-dock-text {
+  display: none; 
+}
