@@ -3,6 +3,6 @@
   display: none;
 }
 
-.video-js .vjs-dock-text {
-  display: none; 
+.vjs-dock-text {
+  display: none !important;
 }
